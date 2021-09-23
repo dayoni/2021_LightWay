@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /home/lightway/Desktop/Guide_process_test
+sudo /home/lightway/Desktop/Guide_process_test/guide_exe
