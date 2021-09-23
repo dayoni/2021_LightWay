@@ -1,5 +1,5 @@
 > ## 시각 장애인을 위한 버스 승차 예약 시스템 및 승차 도움 장치
->	<img src="https://user-images.githubusercontent.com/68980204/134467244-b978a0eb-2bc1-4204-aafc-60894c4bea83.PNG"  width="600" height="400">  
+>	<img src="https://user-images.githubusercontent.com/68980204/134467244-b978a0eb-2bc1-4204-aafc-60894c4bea83.PNG"  width="500" height="350">  
 
 >	- ### 개발 목적
 >		+ ##### 시각 장애인의 편리한 대중교통 이용을 장려  
@@ -30,5 +30,5 @@
 
 </br>
 
-프로젝트에 대한 질문은 언제나 환영입니다!  
-__📥 E-mail : <dayonits2@gmail.com>__   
+## __프로젝트에 대한 질문은 언제나 환영입니다!__  
+## __📥 E-mail : <dayonits2@gmail.com>__   
